@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Digital_agency/static/css/main.e87022b5.css",
+    "main.js": "/Digital_agency/static/js/main.11bc432c.js",
+    "static/js/453.da5d4e8c.chunk.js": "/Digital_agency/static/js/453.da5d4e8c.chunk.js",
+    "static/media/emp4.jpg": "/Digital_agency/static/media/emp4.2c83e9aa4e6ca298b618.jpg",
+    "static/media/bussiness.jpg": "/Digital_agency/static/media/bussiness.132a4742d15a6dfca36f.jpg",
+    "static/media/emp2.jpg": "/Digital_agency/static/media/emp2.54d7b1a6a5cb1918bc83.jpg",
+    "static/media/cryto4.jpg": "/Digital_agency/static/media/cryto4.0f21dddeed41ef525635.jpg",
+    "static/media/emp3.jpg": "/Digital_agency/static/media/emp3.ae7d3b2783dd39fad010.jpg",
+    "static/media/cryto3.jpg": "/Digital_agency/static/media/cryto3.d243f22ab793d091ae8b.jpg",
+    "static/media/cryto1.jpg": "/Digital_agency/static/media/cryto1.ec8d79628dbc3e5431ed.jpg",
+    "static/media/testiminsaal.jpg": "/Digital_agency/static/media/testiminsaal.15276869d2e10e38d91b.jpg",
+    "static/media/cryto2.jpg": "/Digital_agency/static/media/cryto2.6b29c9e9fc460d33a730.jpg",
+    "static/media/emp1.jpg": "/Digital_agency/static/media/emp1.0c7e4a2e6971e439416e.jpg",
+    "static/media/about.png": "/Digital_agency/static/media/about.703e86fdc9c6e17fabe7.png",
+    "static/media/hero.jpeg": "/Digital_agency/static/media/hero.5993bb92ca04a6292793.jpeg",
+    "static/media/img4.jpeg": "/Digital_agency/static/media/img4.0a8ad55e3f03637c5595.jpeg",
+    "index.html": "/Digital_agency/index.html",
+    "main.e87022b5.css.map": "/Digital_agency/static/css/main.e87022b5.css.map",
+    "main.11bc432c.js.map": "/Digital_agency/static/js/main.11bc432c.js.map",
+    "453.da5d4e8c.chunk.js.map": "/Digital_agency/static/js/453.da5d4e8c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e87022b5.css",
+    "static/js/main.11bc432c.js"
+  ]
+}
